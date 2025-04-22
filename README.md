@@ -105,13 +105,6 @@ streamlit run src/webapp/crop_recommendation_app.py
 streamlit run src/webapp/combined_model_app.py
 ```
 
-## Team Members
-
-- [Your Name] - Data Preprocessing and Integration
-- [Team Member 2] - Model Training and Evaluation
-- [Team Member 3] - Web Application Development
-- [Team Member 4] - Computer Vision Implementation
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 

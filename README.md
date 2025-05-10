@@ -2,7 +2,7 @@
 
 A comprehensive smart farming system that combines soil analysis, weather data, and field imagery to provide crop recommendations and identify field conditions.
 
-## Overview 
+## Overview   
 
 This project includes three major components:
 1. **Crop Recommendation System** - Recommends optimal crops based on soil properties and climate data
